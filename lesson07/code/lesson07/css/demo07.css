@@ -1,0 +1,5 @@
+*{
+    color: red; /* 字体颜色 */
+    font-size: 12px; /* 字体字号*/
+    font-weight: 400;  /* 加粗：单位不需要px*/
+}

@@ -1,0 +1,8 @@
+/* 选择网页中所有 class="money" 的标签 */
+.money{
+    color: red;
+}
+.price {
+    font-weight: 800; /* 字体加粗 */
+    font-size: 32px; /* 字体字号*/
+}

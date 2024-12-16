@@ -1,0 +1,6 @@
+/* 群组选择器 */
+#box, .music, a, i{
+    color: red;
+    font-size: 12px;
+    text-decoration: none; /* 去掉下划线 */
+}

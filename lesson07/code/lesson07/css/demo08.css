@@ -1,0 +1,7 @@
+/* id="info"的标签 */
+#info{
+    color: red;
+    width: 300px; /* 宽度 */
+    height: 80px; /* 高度 */
+    text-shadow: red 2px 2px 2px;/* 字体阴影 */
+}

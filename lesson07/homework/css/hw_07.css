@@ -1,0 +1,134 @@
+body{
+    font-size: 14px;
+}
+.goods-item{
+    width: 240px; 
+    height: 360px; 
+}
+.g-img{
+    width: 240px; 
+    height: 240px; 
+}
+
+/*标题的前缀:自营，拍拍二手，自营全球购*/
+.zy{
+    width: 35px; 
+    height: 18px;
+    line-height:18px;
+    margin-right: 5px;
+    text-align: center;
+    font-size:small;
+    display:inline-block;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+}
+.ppes{
+    width: 59px; 
+    height: 18px;
+    line-height:18px;
+    margin-right: 5px;
+    text-align: center;
+    font-size:small;
+    display:inline-block;
+    color:#546908;
+    background-color:#C9FF02;
+    border-radius: 3px;
+    font-family:黑体;
+
+}
+.zyqqg{
+    width: 81px; 
+    height: 18px;
+    margin-right: 8px; 
+    vertical-align: text-bottom;
+
+}
+
+
+
+.g-title{
+     width: 240px; 
+    height: 35px; 
+    text-overflow:ellipsis;
+    overflow:hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;  /*控制多行的行数*/
+    -webkit-box-orient: vertical;
+}
+
+
+
+/*把price大区块，又内含为3部分*/
+.price{
+    color: red;
+    font-size:15px;
+    position:absolute;
+}
+.price1{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.price2{
+    color: gray;
+    font-size:10px;
+    font-weight:600;
+}
+.price3{
+    margin-left: 3px;
+    font-size:11px ;
+  /* vertical-align:super;*/
+   
+}
+
+
+/*把标题和价格之间是bybt大区快，其下
+ 百亿补贴 新品v重磅新品 公益好物  买贵双倍赔 */
+.bybt{
+    width:240px;
+    height: 18px;
+    margin-top:1px;
+    position:relative;
+   
+}
+.bybt-bybt{
+    width:66px;
+    height: 18px;
+    float:left;
+   
+}
+.bybt-xp{
+    width:33px;
+    height: 18px;
+    float:left;
+   
+}
+.bybt-zbxp{
+    width:60px;
+    height: 18px;
+    float:left;
+}
+.bybt-gyhw{
+    width:60px;
+    height: 18px;
+    float:left;
+}
+
+.bybt-txt{
+    width:66px;
+    height: 18px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(250, 44, 25);
+    border-color: rgb(250, 44, 25);
+    display:block;float:left;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 18px;
+    border-radius: 3px;
+    border: 1px solid;
+}
+
+
+
